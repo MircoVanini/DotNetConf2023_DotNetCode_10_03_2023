@@ -1,0 +1,11 @@
+{
+  "profiles": {
+    "DemoOSR": {
+      "commandName": "Project",
+      "environmentVariables": {
+        "__DOTNET_JitDisasmSummary": "1",
+        "DOTNET_JitDisasm": "<Main>$"
+      }
+    }
+  }
+}
